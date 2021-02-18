@@ -25,6 +25,7 @@ class Parent extends Component {
     //         </div>
     //     );
     // }
+    
     //方法二
    
     state = {
